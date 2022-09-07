@@ -2,7 +2,7 @@
 
 
 
-# TECH COCHI
+# Mr.Hack
 [![20200703_192925.png](https://img.imageupload.net/2020/07/03/20200703_192925.png)]
 
 # SMF HACKING TOOL 
